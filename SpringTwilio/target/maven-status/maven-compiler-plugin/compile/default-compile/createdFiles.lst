@@ -1,0 +1,7 @@
+META-INF/spring-configuration-metadata.json
+Spring/Twilio/TwilioInitiazer.class
+Spring/Twilio/Service/VerificationResult.class
+Spring/Twilio/TwilioController.class
+Spring/Twilio/Twilioproperties.class
+Spring/Twilio/Service/PhoneverificationService.class
+Spring/Twilio/SpringTwilioApplication.class
