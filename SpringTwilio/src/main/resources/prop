@@ -1,0 +1,3 @@
+account_sid ,auth_token you will get from twilio account
+To get service id go to https://www.twilio.com/console/verify/services and create new service with a friendly name ,then you will get a service id
+update these in .yml file
